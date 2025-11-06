@@ -8,4 +8,4 @@
 
 ## Research Question
 
-#### Is there a relationship between total fare amount and payment type, and can we move customers towards payment methods that generate higher revenue for drivers, without affecting the CX? 
+#### Is there a relationship between total fare amount and payment type? Is there a relationship between total trip duration and payment type? and can we move customers towards payment methods that generate higher revenue for drivers, without affecting the CX? 
